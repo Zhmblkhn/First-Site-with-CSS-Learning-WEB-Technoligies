@@ -1,0 +1,22 @@
+body {
+    margin: auto;
+    width: 70%;
+    background-color: #1A1A1D;
+    color: white;
+}
+
+h1,h2,h3 {
+    margin-top: 1, 5em;
+}
+
+h1 {
+    size: 32px;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+figure {
+    float: right;
+}
