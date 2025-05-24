@@ -1,12 +1,13 @@
 body {
     margin: auto;
     width: 70%;
-    background-color: #1A1A1D;
+    background-image: url(/Images/sterne-himmel-weltall-hintergrund-1632688605xQg.jpg);
     color: white;
 }
 
 h1,h2,h3 {
-    margin-top: 1, 5em;
+    margin-top: 1,5em;
+    font-family: Comfortaa;
 }
 
 h1 {
